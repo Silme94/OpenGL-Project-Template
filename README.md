@@ -2,8 +2,8 @@
 
 Clone the project using
 ```
-git clone 
-cd
+git clone https://github.com/Silme94/OpenGL-Project-Template
+cd OpenGL-Project-Template
 ```
 Compile the project using make file
 ```
